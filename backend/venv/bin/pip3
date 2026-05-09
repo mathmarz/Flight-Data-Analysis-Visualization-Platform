@@ -1,4 +1,4 @@
-#!/Users/matheusmarzall/PROJECTS/Flight-Data-Analysis-Visualization-Platform/venv/bin/python3
+#!/Users/matheusmarzall/PROJECTS/Flight-Data-Analysis-Visualization-Platform/backend/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
